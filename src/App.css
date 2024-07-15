@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  /* change the path of the background here according to operating systems file path*/
   background: url("C:/Users/KIIT/pokeapi-app/src/assests/background.png") no-repeat center center fixed;
   background-size: cover;
   color: white;
